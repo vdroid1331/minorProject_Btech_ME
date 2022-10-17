@@ -14,7 +14,7 @@ We can use standard C++ operators, classes, functions STL and more inside of our
 For our demo simulations, we are using Arduino Uno 3 board, A standard Servo motor, some wires, an RGB LED light, a Breadboard(size: mini), couple of resistors and finally wires to connect it all together.
 
 ### **Why C++?**
-1. C++ was made to with one of the usecases as to be run on embedded systems in mind, while MicroPython and implimentation of Python for embedded systems programming was not.
+1. C++ was made to with one of the usecases as to be run on embedded systems in mind, while MicroPython (an implimentation of Python for embedded systems programming) was not.
 2. C++ codes run faster than Python codes.
 3. C++ code compilations more efficient.
 4. C++ gives more flexibility and control in these use cases.
