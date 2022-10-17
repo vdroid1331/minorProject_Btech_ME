@@ -25,7 +25,7 @@ In both the demos, we have a couple of variable literals to define the Pin conne
 ## *What's happening in the Demo 1:*
 In the Demo 1, we rotate angle through different angles in very quick successions, with small delays in between, and after each rotation we change the color of the RGB Light, the program starts and terminates with RGB light turning white and the motor shaft returning to it's initial angle of 0 degree.
 
-## *What's happening in the Demo 1:*
+## *What's happening in the Demo 2:*
 In the Demo 2, we rotate angle through different angles in successions of 1 degree angle most of the times, and after some random angle, we do a rapid rotation to some standard angle and then we again do rotations of 1 degree, with small delays in between, and after each rotation we change the color of the RGB Light, the program starts and terminates with RGB light turning white and the motor shaft returning to it's initial angle of 0 degree as well.
 
 ### **Note:**
