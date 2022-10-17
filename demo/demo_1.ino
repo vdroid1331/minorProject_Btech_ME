@@ -66,8 +66,10 @@ void loop()
   RGB_color(125, 67, 189);
   servo_demo.write(127);
   delay(4000);
-  RGB_color(255, 255, 255); // White
+  RGB_color(255, 255, 255);
+  servo_demo.write(0);
   delay(1000);
+  
 }
 
 void RGB_color(int red_light_value, int green_light_value, int blue_light_value)

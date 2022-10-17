@@ -53,6 +53,7 @@ void loop()
   delay(100);
   myservo.write(0);
   RGB_color(255, 255, 255);
+  delay(4000);
 }
 
 
