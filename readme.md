@@ -1,4 +1,4 @@
-# ***Arduino for Servo Roll Making Machine**
+# **Arduino for Servo Roll Making Machine**
 
 ## *Arduino and C++ Base:*
 
